@@ -1,0 +1,27 @@
+{
+  "wtr-lab.com/en/novel/..../": {
+    "title": "",
+    "description": "",
+    "genre": ", , , , ",
+    "novellink": "",
+    "carryParagraphs": 3,
+    "upgrades": {
+      "anchoredFixes": true,
+      "verbBasedWindow": true,
+      "passiveVoice": true,
+      "dialogueSpeaker": true,
+      "roleHeuristicCarry": true,
+      "onlyChangeIfWrong": true,
+      "termMemoryAssist": true,
+      "enforcePinnedTermsOnPlainText": true
+    },
+    "characters": {
+      "": { "gender": "", "aliases": ["", ""] },
+      
+    },
+    "terms": {
+      "": { "preferred": "", "pinned": true, "aliases": [""] },
+      
+    }
+  }
+}
