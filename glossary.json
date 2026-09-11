@@ -16,11 +16,11 @@
       "enforcePinnedTermsOnPlainText": true
     },
     "characters": {
-      "Ye Luo": { "gender": "male", "aliases": ["Brother Ye", ""] },
+      "Ye Luo": { "gender": "male", "aliases": ["Brother Ye", "Death God's Twin Blades", "One Leaf Of China"] },
       
     },
     "terms": {
-      "": { "preferred": "", "pinned": true, "aliases": [""] },
+      "天劫": { "preferred": "Armageddon", "pinned": true, "aliases": ["Heavenly Tribulation"] },
       
     }
   }
