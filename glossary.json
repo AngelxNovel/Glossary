@@ -1,4 +1,32 @@
 {
+  "wtr-lab.com/en/novel/2013/": {
+    "title": "VRMMO: Nine Rounds of Reincarnation (Nine Samsaras)",
+    "description": "With his lover forced to death, the MC enters the VRMMO game Armageddon with a terrible hatred to avenge. He wanted to get the best class, but got the worst game attributes instead, which could be seen being utterly crippled. Since Heaven rewards those who have aspirations, he finally reaped a reward after untold hardships.",
+    "genre": "System, Game Elements, Action, Adventure, Drama, Fantasy, Game, Martial-Arts, Mature, Romance, Urban-Life",
+    "novellink": "https://wtr-lab.com/en/novel/2013/vrmmo-nine-rounds-of-reincarnation",
+    "carryParagraphs": 3,
+    "upgrades": {
+      "anchoredFixes": true,
+      "verbBasedWindow": true,
+      "passiveVoice": true,
+      "dialogueSpeaker": true,
+      "roleHeuristicCarry": true,
+      "onlyChangeIfWrong": true,
+      "termMemoryAssist": true,
+      "enforcePinnedTermsOnPlainText": true
+    },
+    "characters": {
+      "Ye Luo": { "gender": "male", "aliases": ["Brother Ye", ""] },
+      
+    },
+    "terms": {
+      "": { "preferred": "", "pinned": true, "aliases": [""] },
+      
+    }
+  }
+}
+
+{
   "wtr-lab.com/en/novel/14370/": {
     "title": "Top Road Survival Influencer Says She Will Walk to the End of the Highway",
     "description": "Clear-headed female protagonist spent four years in the highway game before dying and later finding herself back at the start of the game.",
