@@ -1,4 +1,28 @@
 {
+  "wtr-lab.com/en/novel/2013/": {
+    "title": "VRMMO: Nine Rounds of Reincarnation",
+    "description": "After his beloved was forced to her death the MC enters the VRMMO game Armageddon with a terrible hatred to avenge.",
+    "genre": "System, Game Elements, Action, Adventure, Drama, Fantasy, Game, Martial-Arts, Mature, Romance, Urban-Life",
+    "novellink": "https://wtr-lab.com/en/novel/2013/vrmmo-nine-rounds-of-reincarnation",
+    "carryParagraphs": 3,
+    "upgrades": {
+      "anchoredFixes": true,
+      "verbBasedWindow": true,
+      "passiveVoice": true,
+      "dialogueSpeaker": true,
+      "roleHeuristicCarry": true,
+      "onlyChangeIfWrong": true,
+      "termMemoryAssist": true,
+      "enforcePinnedTermsOnPlainText": true
+    },
+    "characters": {
+    "Ye Luo": { "gender": "male", "aliases": ["Brother Ye", "Death God's Twin Blades", "One Leaf Of China"] },
+    },
+    "terms": {
+      "天劫": { "preferred": "Armageddon", "pinned": true, "aliases": ["Heavenly Tribulation"] },      
+  }
+ 
+{
   "wtr-lab.com/en/novel/14370/": {
     "title": "Top Road Survival Influencer Says She Will Walk to the End of the Highway",
     "description": "Clear-headed female protagonist spent four years in the highway game before dying and later finding herself back at the start of the game.",
@@ -26,32 +50,6 @@
     "terms": {
       "生命之境": { "preferred": "Realm of Life", "pinned": true, "aliases": ["Life Realm"] },
       "世界竞技场": { "preferred": "World Arena", "pinned": true, "aliases": ["Arena"] }
-    }
-  }
-}
-
-{
-  "wtr-lab.com/en/novel/2013/": {
-    "title": "VRMMO: Nine Rounds of Reincarnation",
-    "description": "After his beloved was forced to her death the MC enters the VRMMO game Armageddon with a terrible hatred to avenge.",
-    "genre": "System, Game Elements, Action, Adventure, Drama, Fantasy, Game, Martial-Arts, Mature, Romance, Urban-Life",
-    "novellink": "https://wtr-lab.com/en/novel/2013/vrmmo-nine-rounds-of-reincarnation",
-    "carryParagraphs": 3,
-    "upgrades": {
-      "anchoredFixes": true,
-      "verbBasedWindow": true,
-      "passiveVoice": true,
-      "dialogueSpeaker": true,
-      "roleHeuristicCarry": true,
-      "onlyChangeIfWrong": true,
-      "termMemoryAssist": true,
-      "enforcePinnedTermsOnPlainText": true
-    },
-    "characters": {
-    "Ye Luo": { "gender": "male", "aliases": ["Brother Ye", "Death God's Twin Blades", "One Leaf Of China"] },
-    },
-    "terms": {
-      "天劫": { "preferred": "Armageddon", "pinned": true, "aliases": ["Heavenly Tribulation"] },      
     }
   }
 }
